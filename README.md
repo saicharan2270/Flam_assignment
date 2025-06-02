@@ -8,8 +8,8 @@ Practical Applications - Real-world use cases for both algorithms
 Compilation Instructions - How to build and run the code
 Learning Objectives - What concepts these problems teach
 
-For Your N-Queens Code:
-I analyzed your implementation and noted that it uses:
+For N-Queens Code:
+I analyzed implementation and noted that it uses:
 
 Backtracking approach with recursive solution
 Efficient safety checking (only checks upward directions)
